@@ -1,0 +1,41 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+trunk/
+.svn/
+.svn*
+
+.classpath
+.project
+.settings/
+.externalToolBuilders/
+.svn*
+
+/target/*.war
+
+.classpath
+.project
+.externalToolBuilders/
+
+
+WebContent/WEB-INF/lib/sapjco3.jar
